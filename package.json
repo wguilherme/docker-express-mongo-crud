@@ -1,0 +1,14 @@
+{
+  "name": "docker-express-mongo-crud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wguilherme/docker-express-mongo-crud.git",
+  "author": "W. Guilherme <wguilhermecriativo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "nodemon": "^2.0.6"
+  }
+}
